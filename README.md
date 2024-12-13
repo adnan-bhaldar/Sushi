@@ -1,7 +1,7 @@
 # Sushi
 <div align = 'center'>
 
-<a href="https://adnan-bhaldar.github.io/PlantX"><strong>➥ Live Demo</strong></a>
+<a href="https://adnan-bhaldar.github.io/Sushi"><strong>➥ Live Demo</strong></a>
 
 ![preview img](/preview.png)
 </div>
